@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main() {
+    float costo, pago, cambio;
+    printf("Costo del articulo: ");
+    scanf("%f", &costo);
+    printf("Dinero recibido: ");
+    scanf("%f", &pago);
+    cambio = pago - costo;
+    printf("Tu cambio es: %.2f", cambio);
+    return 0;
+}
