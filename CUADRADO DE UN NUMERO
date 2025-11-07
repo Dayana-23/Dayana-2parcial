@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    int n, r;
+    printf("Pon un numero: ");
+    scanf("%d", &n);
+    r = n * n;
+    printf("El cuadrado es: %d", r);
+    return 0;
+}
