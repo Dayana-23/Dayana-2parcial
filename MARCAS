@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+    char marca[20], modelo[20];
+    printf("Pon la marca: ");
+    scanf("%s", marca);
+    printf("Pon el modelo: ");
+    scanf("%s", modelo);
+    printf("%s %s", modelo, marca);
+    return 0;
+}
