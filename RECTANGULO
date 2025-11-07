@@ -1,0 +1,10 @@
+include <stdio.h>
+int main() {
+    float base, altura, per, area;
+    printf("Base y altura: ");
+    scanf("%f %f", &base, &altura);
+    per = 2 * (base + altura);
+    area = base * altura;
+    printf("Perimetro: %.2f  Area: %.2f", per, area);
+    return 0;
+}
