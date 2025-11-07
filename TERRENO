@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    float base, alt, costo;
+    printf("Base y altura: ");
+    scanf("%f %f", &base, &alt);
+    costo = base * alt * 1500;
+    printf("Costo: %.2f", costo);
+    return 0;
