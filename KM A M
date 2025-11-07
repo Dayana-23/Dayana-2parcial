@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    float km, millas;
+    printf("Pon los kilometros: ");
+    scanf("%f", &km);
+    millas = km * 0.62137;
+    printf("Son %.2f millas", millas);
+    return 0;
+}
