@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    int a,b,c,r;
+    printf("Tres numeros: ");
+    scanf("%d %d %d", &a,&b,&c);
+    r = a*b*c;
+    printf("Resultado: %d", r);
+    return 0;
+}
