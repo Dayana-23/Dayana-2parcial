@@ -1,10 +1,14 @@
-#include <stdio.h>
+#include <stdio.>
 int main() {
-    char marca[20], modelo[20];
-    printf("Pon la marca: ");
-    scanf("%s", marca);
-    printf("Pon el modelo: ");
-    scanf("%s", modelo);
-    printf("%s %s", modelo, marca);
-    return 0;
+ char marca [20] , modelo[14];
+printf(" Ingresa la marca:");
+scanf("%s", marca);
+printf("Ingresa el modelo");
+scanf("%s", modelo);
+printf("Marca&s,marca") 
+printf("Modelo&s,modelo") 
+
+
+
+\\Primero tuve que volver a ver mis apuntes para notar lo de char y luego ingresar las marcas y modelos asi de facil ;)
 }
