@@ -1,0 +1,12 @@
+#include<stdio.h>
+ int main(){
+     int a,b,c,r;
+     printf("Ingresa tres numeros: ");
+     scanf("%d %d %d",&a,&b,&c);
+     if (a>0)
+     r = a*b*c;
+     else 
+     r = a+b+c;
+     printf("Resultado: %d",r);
+     \\Es el mismo principio que otros ejercicios solo cambiaron las operaciones
+ }
