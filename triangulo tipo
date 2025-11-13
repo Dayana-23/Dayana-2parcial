@@ -1,0 +1,14 @@
+#include<stdio.h>
+ int main(){
+float a,b,c;
+printf(" tres lados: ");
+scanf("%f %f %f",&a,&b,&c);
+if(a==b && b==c)
+printf("Equilatero");
+else if (a==b || a==c || b==c)
+printf("Isosceles");
+else 
+printf("Escaleno");
+\\ Se investigo la formula y luego a base de esto se tradujo la formula a codigoc :)
+ }
+ 
