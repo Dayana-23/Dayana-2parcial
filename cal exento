@@ -1,0 +1,13 @@
+#include<stdio.h>
+ int main(){
+ 
+float c1,c2,c3,prom;
+printf("Ingresa tres calificaciones: ");
+scanf("%f %f %f", &c1,&c2,&c3);
+prom=(c1+c2+c3)/3;
+if(prom>=9)
+print("Excento");
+else 
+print("Ordinario");
+\\Solo me base en uno de los trabajos anteriores e hice unos cambios :)
+ }
