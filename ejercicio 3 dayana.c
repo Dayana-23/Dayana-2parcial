@@ -24,6 +24,8 @@ printf("Aprobado");
 }else{
 printf("Reprobado");
 
+\\ como bien dije anteriormente me base en 
+  uno de los trabajos anteriores y solo cambie algunos detalles 
+}
+}
 
-}
-}
