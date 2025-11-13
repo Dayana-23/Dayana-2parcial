@@ -1,0 +1,26 @@
+
+#include <stdio.h>
+
+int main(){
+    float a, b, x;
+    printf("Ingresa el valor de a: ");
+    scanf("%f", &a);
+    printf("Ingresa el valor de b: ");
+    scanf("%f", &b);
+    if(a == 0){
+        if(b == 0){
+            printf("La ecuacion tiene infinitas soluciones.\n");
+        }else{
+            printf("La ecuacion no tiene solucion.\n");
+        }
+    }else{
+        x = -b / a;
+        printf("La solucion es: x =%.2f\n", x);
+    \\ primero volvi a investigar la formula de la ecuacion y de ahi solo me base 
+    aun que fue un poco confuso
+    }
+            
+        }
+        }
+    }
+}
