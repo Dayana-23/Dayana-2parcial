@@ -16,4 +16,7 @@ scanf("%f",&n3);
 suma = n1 + n2 + n3 ;
 
 printf("El resultado de la suma es:%2f",suma);
+\\ pues fue bastante obvio  solo era ingresar los datos como en el de las calificaciones
+  pero cambiamos algunas cosas 
 }
+
