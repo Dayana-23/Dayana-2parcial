@@ -1,0 +1,13 @@
+#include<stdio.h>
+ int main(){
+     float base,alt,area,costo;
+     printf("Ingresa la base y altura: ");
+     scanf("%f %f",&base,&alt);
+     area = base*alt;
+     costo = area*750;
+     if(area>500)
+     costo = costo - (costo*0.10);
+     printf("Costo: %.2f", costo);
+     \\primero se busco la formula y a traves de calculo por formula se obtiene el resultado e inclsuo se verifico
+     
+ }
