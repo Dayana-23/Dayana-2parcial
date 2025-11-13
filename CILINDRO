@@ -8,4 +8,5 @@ int main() {
     vol = PI * r * r * h;
     printf("Area: %.2f  Volumen: %.2f", area, vol);
     return 0;
+\\ igual que otros, fue sólo investigar la fórmula para lograrlo, y con base a eso sólo traducirla y hacer algunos cambios para que quedará mejor el código
 }
