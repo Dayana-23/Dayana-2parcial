@@ -8,6 +8,6 @@
      if(area>500)
      costo = costo - (costo*0.10);
      printf("Costo: %.2f", costo);
-     \\primero se busco la formula y a traves de calculo por formula se obtiene el resultado e inclsuo se verifico
+     //primero se busco la formula y a traves de calculo por formula se obtiene el resultado e inclsuo se verifico
      
  }
