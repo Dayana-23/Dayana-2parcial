@@ -7,4 +7,5 @@ int main() {
     h = sqrt(a*a + b*b);
     printf("Hipotenusa: %.2f", h);
     return 0;
+// fue solo investigar la formula y con los datos que se ingresen multiplicarlo y ya con eso sumarlo
 }
