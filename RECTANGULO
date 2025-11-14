@@ -7,5 +7,6 @@ int main() {
     area = base * altura;
     printf("Perimetro: %.2f  Area: %.2f", per, area);
     return 0;
-\\ Busque la formula porque se me habia olvidado y me base en ella tambien tuve que hacer la operacion para verificar que los resultados fueran los correctos
+//Busque la formula porque se me habia olvidado y me base en ella tambien tuve que hacer la operacion para verificar que los resultados fueran los correctos
 }
+
