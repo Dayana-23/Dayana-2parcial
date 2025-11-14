@@ -47,8 +47,7 @@ switch(mes) {
     printf("Error de opcion \n");
     break;
 }
-\\ hice casi el mismo procedimiento que con el de las semanas solo cambie algunos
-datos feu casi la misma logica
+// hice casi el mismo procedimiento que con el de las semanas solo cambie algunos datos fue casi la misma logica utilizando case y switch 
 
    
 }
