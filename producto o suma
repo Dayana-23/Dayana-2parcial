@@ -8,5 +8,5 @@
      else 
      r = a+b+c;
      printf("Resultado: %d",r);
-     \\Es el mismo principio que otros ejercicios solo cambiaron las operaciones
+     //solo era ingresar los numeros ya dependiendo en ellos y su resultado es producto o suma
  }
