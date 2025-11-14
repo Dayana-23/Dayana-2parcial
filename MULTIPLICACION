@@ -6,5 +6,6 @@ int main() {
     r = a*b*c;
     printf("Resultado: %d", r);
     return 0;
-\\ solo puse tres variables e hice la operacion con * y le puse el resultado
+// solo puse tres variables que son las que se tienen que ingresar e hice la operacion con * y le puse el resultado
 }
+
