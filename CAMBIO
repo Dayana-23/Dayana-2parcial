@@ -8,6 +8,6 @@ int main() {
     cambio = pago - costo;
     printf("Tu cambio es: %.2f", cambio);
     return 0;
-\\ fue solo hacer restas y me base en otros trabajos 
-como el del promedio
+// primero fue ingresar los datos y ya con eso fue hacer una resta
 }
+
