@@ -10,5 +10,5 @@ else if(s<0)
 printf("Suma negativa");
 else 
 printf("Suma cero");
-    \\ suma de dos numeros e indica si es positiva o negativo 
+    //solo es  suma de dos numeros ya con ese resultado dependiendo si es mayor o menor a 0 sea positivo o negativo
  }
