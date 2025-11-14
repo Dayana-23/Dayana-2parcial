@@ -13,8 +13,10 @@ scanf("%f",&base);
 area=(base*altura) / 2;
 
 printf("El area del triangulo es:%.2f \n",area);
-\\ lo que hice fue invetsigar la formula y tratar 
-  de ponerla o  traducirla al codigo  
+//lo que hice fue invetsigar la formula y tratar de ponerla o  traducirla al codigo  
+
+  
 }
+
 
 
