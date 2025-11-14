@@ -27,5 +27,6 @@ main()
 
     printf("x2 %f",x2);
     printf("\n");
-\\ Utilize la formula general para hacer mis calculos y leugo al intertar con el codigo verificar que los resultados fueran correctos
+// Utilize la formula general para hacer mis calculos y leugo al intertar con el codigo verificar que los resultados fueran correctos
 }
+
