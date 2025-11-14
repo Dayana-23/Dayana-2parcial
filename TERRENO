@@ -5,5 +5,6 @@ int main() {
     scanf("%f %f", &base, &alt);
     costo = base * alt * 1500;
     printf("Costo: %.2f", costo);
-\\ solo puse la base y altura y utilize print
+// solo se tenia que ingresar las dos variables que son la base altura se multiplican y luego por 1500 y ese es el resultado 
     return 0;
+
