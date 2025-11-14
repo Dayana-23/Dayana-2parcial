@@ -9,5 +9,5 @@ if(prom>=9)
 print("Excento");
 else 
 print("Ordinario");
-\\Solo me base en uno de los trabajos anteriores e hice unos cambios :)
+//Fue solo que se ingresaran las calificaiones con esos datos se suman y se dividen entre 3 que es el numero de calificaciones si es mayor a 9 exenta   :)
  }
