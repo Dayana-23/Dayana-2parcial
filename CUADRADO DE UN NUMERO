@@ -6,5 +6,6 @@ int main() {
     r = n * n;
     printf("El cuadrado es: %d", r);
     return 0;
-\\ en este caso fue sólo buscar o hacer que ingresen el número y base eso, nada más, pues multiplicarlo por ese
+// en este caso fue sólo buscar o hacer que ingresen el número y base eso, nada más, pues multiplicarlo por ese mismo numero que es como se saca el cuadrado
 }
+
