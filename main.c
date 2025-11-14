@@ -8,5 +8,5 @@ int main(){
     x= -b / a;
     printf("x = %.2f",x);
     return 0;
- \\ mas que nada fue hacer calculos e interpretar eso en codigo   
+ // mas que nada fue hacer calculos e interpretar eso en codigo  como ingresar las variables y solo dividirlas
 }
