@@ -8,6 +8,6 @@
      printf("Aprovado");
      else 
      printf("Reprovado");
-     \\Lo mismo que los otros ejercicios solo agregue mas variables
+     //Lo mismo que los otros ejercicios solo agregue mas variables,hice las sumas y se divido entre 5 
      
  }
