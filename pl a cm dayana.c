@@ -9,6 +9,7 @@ scanf("%f",&cm);
 
 pl=cm*0.3937;
 printf("Tu distancia en pulgadas es: \n%f" ,pl);
-\\ fue solo investigar como pasarlo y saber por que multiplicarlo 
+// fue solo investigar como pasarlo y saber por que multiplicarlo 
 }
+
 
