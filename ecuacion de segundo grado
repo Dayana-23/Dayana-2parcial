@@ -17,7 +17,7 @@ int main(){
         x = -b / a;
         printf("La solucion es: x =%.2f\n", x);
     \\ primero volvi a investigar la formula de la ecuacion y de ahi solo me base 
-    aun que fue un poco confuso
+    aun que fue un poco confuso 
     }
             
         }
