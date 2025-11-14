@@ -9,5 +9,5 @@
      printf("%d",b);
      if(c>=a && c>=b)
      printf("%d",c);
-     \\ en este ejercicio solo se usan las mismas condicionantes solo que los ciclos son mas cortos 
+     // en este ejercicio solo se usan las mismas condicionantes solo que los ciclos son mas cortos 
  }
