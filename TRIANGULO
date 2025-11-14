@@ -7,5 +7,6 @@ int main() {
     per = l1+l2+l3;
     printf("Area: %.2f  Perimetro: %.2f", area, per);
     return 0;
-\\ igual que otras, lo que se hizo, fue que fue con la en base a lo que es la fórmula, sólo que reduje un poco las cosas para que no estuviera tan largo y pues ya con eso nada más resolverlo
+//Fue algo simliar a otros problemas solo es ingresar la base y altura y eso despues de ser multiplicarlo primero se divide entre dos 
 }
+
