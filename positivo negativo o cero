@@ -9,6 +9,5 @@
  printf("Negativo");
  else 
  printf("Cero");
- \\cambie algunas cosas ya que para mi punto de vista era muy similar a otro y 
- me base en el agregue y quite algunas cosas
+ //solo era ingresar un numero ya en base a el numero se dice si es positivo negativo o cero
  }
