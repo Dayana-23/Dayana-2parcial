@@ -28,7 +28,7 @@
          default:
          printf("Error de opcion ");
          break;
-         \\ Se empleo el comando switch aunque me tarde un poco en escribirlo
+         // Se empleo el comando switch aunque me tarde un poco en escribirlo
          fue facil pero largo:(
      
          
