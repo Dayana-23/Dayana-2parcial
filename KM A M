@@ -5,7 +5,8 @@ int main() {
     scanf("%f", &km);
     millas = km * 0.62137;
     printf("Son %.2f millas", millas);
-    return 0;
-\\ para mi punto de vista fue algo parecido  pulgadas  a centímetros así que fue algo  similar, sólo se tuvo que hacer  unos  cambios
-y hacer una investigacion de como pasar km a m 
+/* para mi punto de vista fue algo parecido  pulgadas  a centímetros así que fue algo  similar, sólo se tuvo que hacer  unos  cambios
+y hacer una investigacion de como pasar km a m
+*/
 }
+
