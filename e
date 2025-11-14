@@ -10,7 +10,7 @@ else if(prom>6);
 printf("Ordinario");
 else 
 printf("Extraordinario");
-\\ Fue casi lo mismo que el anterior solo agregue otros condicionantes
+// pirmero es ingresar las calificaciones , se dividen entre tres y si es mayor a nueve exento y si es mayor a seis es ordinario
 
      
  }
